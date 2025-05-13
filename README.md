@@ -1,7 +1,2 @@
-# Bergo
-This is my first Repository.
-<br>
-Auther-Zohaib Babar
-My name is muhammad zohaib babar 
-I am from in faislabad tehsil samundri
-and chak number 388 GB
+<p>this is a new repo.</p>
+<p>this is a new feature (button)</p>
